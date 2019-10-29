@@ -2,12 +2,14 @@
 ### _By Kate Christensen_
 
 _____________
-## Contents of the repo:
+## Contents:
 - `metoo_stem.py`: script to scrape stories from [metoostem.com](https://metoostem.com/stories/) 
 
 - `exploratory.ipynb`: rough exploratory analysis of the data and its collection
 
 - `me_too_STEM.zip`: corpus of #metoo stories within STEM taken from [metoostem.com](https://metoostem.com/stories/)
+
+- `reddit_metoo.zip`: corpus of #metoo stories taken from r/metoo, stories taken were either tagged "Personal" or "Serious/personal" (so no news stories or research questions were mistakenly added to the corpus)
 ______________________________
 
 
