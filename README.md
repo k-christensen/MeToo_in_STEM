@@ -10,6 +10,9 @@ _____________
 - `me_too_STEM.zip`: corpus of #metoo stories within STEM taken from [metoostem.com](https://metoostem.com/stories/)
 
 - `reddit_metoo.zip`: corpus of #metoo stories taken from r/metoo, stories taken were either tagged "Personal" or "Serious/personal" (so no news stories or research questions were mistakenly added to the corpus)
+
+- `reddit_metoo.py`: script to scrape stories from r/metoo on reddit
+    - **Note**: client_id, client_secret, and user_agent are required to run this script as this interacts with the reddit API
 ______________________________
 
 
