@@ -10,7 +10,7 @@ def get_stories():
         soup = BeautifulSoup(page.content)
         title = soup.find('title').text.replace('– ','').replace(' ', '_')
         headers = list(soup.find_all('strong'))
-        head_list = [item.get_text() for item in headers]
+        head_list = [item.get_text(strip = True) for item in headers]
         head_list = [item.replace(':', '') for item in head_list]
         story_list = [''.join(item.get_text().split(':')[1:]).replace('\xa0', '') for item in soup.find_all('p')]
         story_list = [item for item in story_list if item]

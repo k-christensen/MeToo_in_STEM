@@ -3,4 +3,6 @@ assorted_stuff/
 login_info/
 me_too_STEM/
 reddit_metoo
-
+__pycache__/
+stanford-corenlp-full-2018-10-05.zip
+stanford-corenlp-full-2018-10-05/
