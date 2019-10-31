@@ -13,6 +13,8 @@ _____________
 
 - `reddit_metoo.py`: script to scrape stories from r/metoo on reddit
     - **Note**: client_id, client_secret, and user_agent are required to run this script as this interacts with the reddit API
+
+- `open_corpus_folder.py`: script to convert txt files into a list of lists, also formats the text into a more readable format
 ______________________________
 
 
