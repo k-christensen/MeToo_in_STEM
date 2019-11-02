@@ -1,7 +1,7 @@
 import os, sys
 
 def open_corpus_folder(path):
-    path = "path"
+    path = path
     dirs = os.listdir(path)
     file_list = []
     for file in dirs:

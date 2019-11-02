@@ -15,6 +15,9 @@ _____________
     - **Note**: client_id, client_secret, and user_agent are required to run this script as this interacts with the reddit API
 
 - `open_corpus_folder.py`: script to convert txt files into a list of lists, also formats the text into a more readable format
+
+* NLP analysis conducted in this project utilizes Stanford coreNLP software *
+
 ______________________________
 
 
