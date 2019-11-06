@@ -10,7 +10,7 @@ def doc_list(df, stop):
                                             'VBN','VBP','VBZ'])].lemma)
     docs = list(zip(doc_list,lemma_list))
     filtered = [(d,w.lower()) for d,w in docs if len(w)>2]
-    filtered = [(d,w) for d,w in filtered if word not in stop]
+    filtered = [(d,w) for d,w in filtered if w not in stop]
     
     doc_dict = {}
     
