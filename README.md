@@ -28,6 +28,13 @@ _____________
 
 ______________________________
 
+Blog posts about my findings:
+
+[Summary post](https://objectorientedmemes.home.blog/2019/11/12/summary-of-the-last-three-posts/)
+[Diversity in tech](https://objectorientedmemes.home.blog/2019/11/11/why-should-we-care-about-diversity-in-tech/)
+[Where are all the women](https://objectorientedmemes.home.blog/2019/11/11/where-are-all-the-women/)
+[The Project](https://objectorientedmemes.home.blog/2019/11/11/the-one-where-i-pick-the-most-emotionally-exhausting-topic-i-could-think-of-for-my-capstone-project/)
+______________________________
 
 ### About Me Too:
 Me Too was originally started in 2006 by Tarana Burke, but went viral in 2017 following the sexual abuse allegations of Harvey Weinstein and Alyssa Milano's tweet: 
