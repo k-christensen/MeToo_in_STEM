@@ -1,3 +1,7 @@
+import stanfordnlp
+import pandas as pd
+nlp = stanfordnlp.Pipeline()
+
 def word_feature_df(story_list):    
 
     name_vars = []

@@ -16,7 +16,7 @@ def open_corpus_folder(path):
         all_items_f.append(u' '.join(item.split()).lower())
     for item in all_items_f:
         if item is '':
-            all_stem_f.remove(item)
+            all_items_f.remove(item)
             
     return all_items_f
         
