@@ -1,6 +1,6 @@
 # #MeToo and STEM
 ### _By Kate Christensen_
-
+[Read my medium article about this project here](https://medium.com/@katec125/machine-learning-and-metoo-an-analysis-of-sexism-in-stem-69e9e8d0a372?source=friends_link&sk=947092b02ae4df8407ceb6cdd5578eda)
 _____________
 ## Contents:
 - `data_collection_processing_and_analysis.ipynb`: clean notebook that walks through my analysis of the data
